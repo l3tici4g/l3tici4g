@@ -1,16 +1,14 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bb9af7&size=30&width=1000&lines=Olá!+Eu+sou+a+Letícia+Geovana.)](https://git.io/typing-svg)
 
-<!--
-**l3tici4g/l3tici4g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://github.com/l3tici4g">
+  <img height="180em" src="https://github-readme-status.vercel.app/api?username=l3tici4g&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=7609b0&icon_color=bb9af7&text_color=bb9af7&bg_color=0d0b12"/>
+  <img height="180em" src="https://github-readme-status.vercel.app/api/top-langs/?username=l3tici4g&layout=compact&langs_count=16&hide_border=true&title_color=7609b0&icon_color=bb9af7&text_color=bb9af7&bg_color=0d0b12"/>
+</div>
 
-Here are some ideas to get you started:
+### Tecnologias que estou estudando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block">
+  <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
