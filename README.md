@@ -2,13 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bb9af7&size=30&width=1000&center=true&lines=Olá!+Eu+sou+a+Letícia+Geovana.)](https://git.io/typing-svg)
 
-<div align="center">
-  <a href="https://github.com/l3tici4g">
-  <img height="180em" src="https://github-readme-status.vercel.app/api?username=l3tici4g&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=7609b0&icon_color=bb9af7&text_color=bb9af7&bg_color=0d0b12"/>
-  <img height="180em" src="https://github-readme-status.vercel.app/api/top-langs/?username=l3tici4g&layout=compact&langs_count=16&hide_border=true&title_color=7609b0&icon_color=bb9af7&text_color=bb9af7&bg_color=0d0b12"/>
-</div>
-<br/>
-
 ### Tecnologias que estou estudando:
 
 <div style="display: inline_block">
