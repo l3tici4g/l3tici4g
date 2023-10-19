@@ -1,4 +1,3 @@
-<img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&color=7609b0&height=180%&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bb9af7&size=30&width=1000&center=true&lines=Olá!+Eu+sou+a+Letícia+Geovana.)](https://git.io/typing-svg)
 
@@ -9,5 +8,3 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div>
-
-<img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&color=7609b0&height=180%&section=footer"/>
