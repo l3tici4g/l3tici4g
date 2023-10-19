@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bb9af7&size=34&width=1000&center=true&lines=Hi!+I'm+Letícia+Geovana.;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=34&width=1000&center=true&lines=Hi!+I'm+Letícia+Geovana.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ### Studying:
 
