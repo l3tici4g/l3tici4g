@@ -13,7 +13,7 @@
   <img align="center" alt="react_native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
 
-### Interesse:
+### Interesses futuros:
 
 <div style="display: inline_block">
   <img align="center" alt="ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
