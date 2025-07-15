@@ -1,6 +1,6 @@
 # Olá, sou Letícia Geovana!
 
-**Sou estudante de Tecnologia de Sistemas para Internet pelo Instituto Federal de Educação, Ciência e Tecnologia do Estado do Rio Grande do Norte (IFRN), além de técnica em Informática para Internet pelo Instituto Metrópole Digital (IMD).** Com o objetivo de se tornar uma desenvolvedora Full Stack, busco sempre aprender novas tecnologias para aprimorar minhas habilidades e fornecer soluções de qualidade voltadas para internet.
+**Sou estudante de Tecnologia em Sistemas para Internet pelo Instituto Federal de Educação, Ciência e Tecnologia do Estado do Rio Grande do Norte (IFRN), além de técnica em Informática para Internet pelo Instituto Metrópole Digital (IMD).** Com o objetivo de se tornar uma desenvolvedora Full Stack, busco sempre aprender novas tecnologias para aprimorar minhas habilidades e fornecer soluções de qualidade voltadas para internet.
 
 ## Tecnologias de atuação
 
