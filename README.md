@@ -1,6 +1,6 @@
 # Olá, sou Letícia Geovana!
 
-**Sou estudante de Tecnologia em Sistemas para Internet pelo Instituto Federal de Educação, Ciência e Tecnologia do Estado do Rio Grande do Norte (IFRN), além de técnica em Informática para Internet pelo Instituto Metrópole Digital (IMD).** Com o objetivo de se tornar uma desenvolvedora Full Stack, busco sempre aprender novas tecnologias para aprimorar minhas habilidades e fornecer soluções de qualidade voltadas para internet.
+**Sou estudante de Tecnologia de Sistemas para Internet pelo Instituto Federal de Educação, Ciência e Tecnologia do Estado do Rio Grande do Norte (IFRN), além de técnica em Informática para Internet pelo Instituto Metrópole Digital (IMD).** Com o objetivo de se tornar uma desenvolvedora Full Stack, busco sempre aprender novas tecnologias para aprimorar minhas habilidades e fornecer soluções de qualidade voltadas para internet.
 
 ## Tecnologias de atuação
 
@@ -17,6 +17,7 @@
   <img align="center" alt="icon_node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="icon_mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="icon_sqlite" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
+  <img align="center" alt="icon_git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 </div>
 
 ## Interesses
@@ -35,7 +36,6 @@
 
 <div align="center">
     <a href="https://github.com/leticia2025IFRN" target="_self"><img alt="badge_github" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"></a>
-    <a href="https://mailto:leticiageovana335@gmail.com" target="_blank"><img alt="badge_gmail" src="https://img.shields.io/badge/Gmail-%23333.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-    <a href="https://www.instagram.com/l3tici4g?igsh=MTU0aDlibzA1eGRsdg==" target="_blank"><img alt="badge_instagram" src="https://img.shields.io/badge/Instagram-7609b0.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+    <a href="https://mailto:leticiageovana335@gmail.com" target="_blank"><img alt="badge_gmail" src="https://img.shields.io/badge/Gmail-7609b0.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/let%C3%ADcia-g-lopes-152339375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img alt="badge_linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
