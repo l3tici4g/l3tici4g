@@ -36,6 +36,6 @@
 
 <div align="center">
     <a href="https://github.com/l3tici4g" target="_self"><img alt="badge_github" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"></a>
-    <a href="https://mailto:leticiageovana335@gmail.com" target="_blank"><img alt="badge_gmail" src="https://img.shields.io/badge/Gmail-7609b0.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+    <a href="mailto:leticiageovana335@gmail.com" target="_blank"><img alt="badge_gmail" src="https://img.shields.io/badge/Gmail-7609b0.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/l3tici4g/" target="_blank"><img alt="badge_linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
