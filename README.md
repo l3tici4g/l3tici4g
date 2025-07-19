@@ -1,8 +1,8 @@
 # Olá, sou Letícia Geovana!
 
-**Sou estudante de Tecnologia de Sistemas para Internet pelo Instituto Federal de Educação, Ciência e Tecnologia do Estado do Rio Grande do Norte (IFRN), além de técnica em Informática para Internet pelo Instituto Metrópole Digital (IMD).** Com o objetivo de se tornar uma desenvolvedora Full Stack, busco sempre aprender novas tecnologias para aprimorar minhas habilidades e fornecer soluções de qualidade voltadas para internet.
+**Sou estudante de Tecnologia de Sistemas para Internet pelo Instituto Federal de Educação, Ciência e Tecnologia do Estado do Rio Grande do Norte (IFRN), além de técnica em Informática para Internet pelo Instituto Metrópole Digital (IMD).** Com o objetivo de se tornar uma Desenvolvedora Full Stack, viso sempre aprender novas tecnologias para aprimorar minhas habilidades e fornecer soluções de qualidade voltadas para internet.
 
-## Tecnologias de atuação
+## Conhecimentos Técnicos
 
 <div style="display: inline_block">
   <img align="center" alt="icon_html5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -10,12 +10,13 @@
   <img align="center" alt="icon_javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="icon_typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="icon_python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="icon_sass" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
   <img align="center" alt="icon_bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="icon_sass" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
   <img align="center" alt="icon_react" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="icon_npm" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="icon_node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="icon_mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="icon_android_studio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="icon_sqlite" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="icon_git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 </div>
@@ -36,6 +37,6 @@
 
 <div align="center">
     <a href="https://github.com/l3tici4g" target="_self"><img alt="badge_github" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"></a>
-    <a href="mailto:leticiageovana335@gmail.com" target="_blank"><img alt="badge_gmail" src="https://img.shields.io/badge/Gmail-7609b0.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/l3tici4g/" target="_blank"><img alt="badge_linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://mailto:leticiageovana335@gmail.com" target="_blank"><img alt="badge_gmail" src="https://img.shields.io/badge/Gmail-7609b0.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+    <a href="www.linkedin.com/in/l3tici4g" target="_blank"><img alt="badge_linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
