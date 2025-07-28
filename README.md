@@ -38,5 +38,5 @@
 <div align="center">
     <a href="https://github.com/l3tici4g" target="_self"><img alt="badge_github" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"></a>
     <a href="https://mailto:leticiageovana335@gmail.com" target="_blank"><img alt="badge_gmail" src="https://img.shields.io/badge/Gmail-7609b0.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-    <a href="www.linkedin.com/in/l3tici4g" target="_blank"><img alt="badge_linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="www.linkedin.com/in/l3tici4g" target="_blank"><img alt="badge_linkedin" src="https://img.shields.io/badge/LinkedIn-006699?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAABQ0lEQVR4nO3ZPUoDURSG4SOKnUbQVrDQHbgHBTNoKQp2lm7BRgIuxDXYGaMuxE7xh4BOKptXrkw15GbumMLvxvPCdGfu8DB/TGLmed6vAvaBATDi7xsBt0DRFnGJbr02Z0K9bgokXE7q9VMgJfp9pkCyyBwyY5Bn4BBYrbZj4JUMITsqj2ubErI8Zr5DhpBizHyXDCFvwAmwVm3hHnkhQ4hM5pBZgljCPgkzD9W7aB1YBJaAbeAceM8BEl6cuw3HXgGu1SGbjQe3n7kF4F4W0iZgA/iShwDzCTNXshDgDHiqRh+B0wmzR5IQ4KDN9zewpQq5iyw7iMx3VCHDyLLDyPycKmSqdes5JOQQc0g0h4QcYg6J5hC17D9BSvT7SIGEf0/Vu0mBFOi31wipMD10u0hC1H5l74vcM2W4nJLPhOd5Vu8bSoiEJ4CHE4IAAAAASUVORK5CYII="></a>
 </div>
