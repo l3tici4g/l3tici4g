@@ -160,3 +160,7 @@ Sou estudante de Tecnologia de Sistemas para Internet pelo Instituto Federal de 
     src="https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white"
   />
 </div>
+
+## 📊 Estatísticas
+
+[![Estatísticas do GitHub](https://estaticasreadme.vercel.app/api?username=l3tici4g&font_family=Bricolage+Grotesque&locale=pt-br&title_color=f6c177&text_color=e0def4&icon_color=31748f&bg_color=191724&show_icons=true&v=2)](https://github.com/ramonsantos9)
